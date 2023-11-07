@@ -305,7 +305,7 @@ Check AWS conseol for created infrastructure
 In the next project, we would use packer to create AMIs, Terrafrom to create the infrastructure and Ansible to configure the infrasrtucture.
 
 
-
+Check [LINK TO CODE REPOSITORY HERE](https://github.com/obaigbenaa/Terraform-AWS-Cloud-Automation)
 
 
 
