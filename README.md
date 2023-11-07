@@ -4,6 +4,8 @@
 
 ## REFACTORING OUR PROJECT USING MODULES
 
+![Alt text](images/tooling_project_15.png)
+
 ### Terraform Modules and best practices to structure your .tf codes
 
 By this time, you might have realized how difficult is to navigate through all the Terraform blocks if they are all written in a single long .tf file. As a DevOps engineer, you must produce reusable and comprehensive IaC code structure, and one of the tool that Terraform provides out of the box is [Modules.](https://www.terraform.io/docs/language/modules/index.html)
