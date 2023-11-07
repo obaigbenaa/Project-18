@@ -300,7 +300,9 @@ Check AWS conseol for created infrastructure
 
 ![Alt text](images/1.target-group.png)
 
+**BLOCKERS:** Our website would not be available because the userdata scripts we added to the launch template does not contain the latest endpoints for EFS, ALB and RDS and also our AMI is not properly configured, so how do we fix this?
 
+In the next project, we would use packer to create AMIs, Terrafrom to create the infrastructure and Ansible to configure the infrasrtucture.
 
 
 
